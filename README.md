@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Hayfa Rajhi!
-
 🎓 **Data & Software Engineering Student** at *Faculté des Sciences de Bizerte*.  
 🌍 Based in Djebba, Béja, Tunisia.  
 💻 Passionate about building scalable solutions with **AI/ML**, **cloud technologies**, and **full-stack development**.
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 - **Frameworks:** Angular, Spring Boot, Flask  
 - **Databases:** MySQL, MongoDB, PostgreSQL, Oracle  
 - **AI/ML Tools:** TensorFlow, Keras, OpenCV, PySpark  
-- **DevOps:** Docker, Kubernetes, Git, HAProxy  
+- **DevOps/MLOps:** Docker, Kubernetes, Git, MLFLOW  
 
 ---
 👩‍💻 **Programming is like cooking**: Start with the right ingredients (code), add some seasoning (debugging), and enjoy the final dish (the app)! 🥘👩‍🍳  
@@ -41,9 +39,7 @@ Here are some ideas to get you started:
 ### 😂 Developer Humor  
 > "Why do programmers prefer dark mode?  
 > Because light attracts bugs!" 🐛  
-
-![Meme](https://i.imgflip.com/6kjcai.jpg)
-
+ 
 ### 📜 My Coding Journey  
 - **2020**: Started my coding adventure with Java. ☕  
 - **2021**: Built my first full-stack project. 🌐  
